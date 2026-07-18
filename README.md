@@ -7,7 +7,11 @@ A custom Anki add-on that embeds a web browser directly into the card review scr
 * **Instant AI Help:** Keep Gemini open alongside your cards for quick lookups during reviews.
 
 ## Installation
-1. ##PLACEHOLDER##
+1. Open Anki
+2. Go to Tools -> Add-ons
+3. Click on View Files
+4. Extract the content into the folder
+5. Restart Anki
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
